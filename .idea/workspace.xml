@@ -124,9 +124,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="results.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite/templates/results.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+    <configuration name="results.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite/templates/results.html" />
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.results.html" />

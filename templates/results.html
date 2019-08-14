@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results Page</title>
+</head>
+<body>
+  <table>
+  {% for key, value in results.items() %}
+      {{ key }} &nbsp; {{ value }}<br />
+  {% endfor %}
+  </table>
+</body>
+</html>

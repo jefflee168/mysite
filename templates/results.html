@@ -5,9 +5,12 @@
     <title>Results Page</title>
 </head>
 <body>
-  <table>
+  <table border="1">
   {% for key, value in results.items() %}
-      {{ key }} &nbsp; {{ value }}<br />
+    <tr>
+        <td style="font-size: strong">{{ key }}</td>
+        <td>{{ value }}</td>
+    </tr>
   {% endfor %}
   </table>
 </body>
